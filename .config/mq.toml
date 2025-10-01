@@ -1,4 +1,4 @@
-mode = "singlequeue"
+mode = "parallelqueue"
 
 [trunk]
 api = "api.trunk.io"
@@ -10,7 +10,7 @@ email = "bot@trunk.io"
 [test]
 flake_rate = 0.01
 # how long test should spin for (can be described as 10s, 7m, 1hr)
-sleep_for = "30min"
+sleep_for = "10min"
 
 [pullrequest]
 labels = ""                     # label to apply to pull request on creation (comma separated list)
@@ -20,10 +20,10 @@ run_generate_for = "30 minutes"
 
 # the max number of deps in this repo. setting to 3 for example will cause
 # files in alpha, bravo, charlie deps to be changed
-max_deps = 1
+max_deps = 5
 
 # the max number of deps per PR to edit
-max_impacted_deps = 1
+max_impacted_deps = 2
 
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
