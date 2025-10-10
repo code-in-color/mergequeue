@@ -25,7 +25,7 @@ max_deps = 5
 # the max number of deps per PR to edit
 max_impacted_deps = 2
 
-deps_distribution = "0.90x1,0.9x2,0.1xALL"
+deps_distribution = "0.90x1,0.09x2,0.01xALL"
 # rate at which PRs should simulate a logical merge conflict and need to be rejected
 logical_conflict_every = 100
 logical_conflict_file = "logical-conflict.txt"
