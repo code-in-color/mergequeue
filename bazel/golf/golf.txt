@@ -4600,7 +4600,6 @@ gapa
 gaudeamus
 gyrodactylus
 grapeshot
-gustatorially
 gyroidal
 gallup
 greenheart
@@ -7289,6 +7288,7 @@ gonfalonier
 glumpiness
 gosports
 grainless
+gustatorially
 gossamered
 geodynamical
 galega
