@@ -817,7 +817,6 @@ gnarring
 gamblesomeness
 greenback
 genseng
-gambogian
 gombroons
 grangerise
 genistin
@@ -9762,6 +9761,7 @@ gelidities
 globetrotter
 ganza
 grunt
+gambogian
 grunter
 gravemaking
 galactopyra
