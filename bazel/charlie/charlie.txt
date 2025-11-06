@@ -12886,7 +12886,6 @@ chairmanned
 chemotaxonomist
 cutling
 cathodic
-chummily
 chilliwack
 curried
 churchwardenism
@@ -13427,6 +13426,7 @@ ciconiform
 ciconiiformes
 ciconine
 cicorees
+chummily
 copelatae
 cicurate
 coffered
