@@ -5683,7 +5683,6 @@ enlargedly
 exomorphism
 exameter
 engarble
-exogastric
 emeu
 evilest
 eozoon
@@ -8834,6 +8833,7 @@ endarteritis
 estrones
 erectopatent
 entophytic
+exogastric
 equiprobabilist
 eternities
 egyptologic
